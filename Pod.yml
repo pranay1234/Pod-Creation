@@ -9,4 +9,4 @@ spec:
         - name: nodeapp
           image: pranayreddya94/web:v1
           ports:
-              - containerPort: 8080
+              - containerPort: 80
